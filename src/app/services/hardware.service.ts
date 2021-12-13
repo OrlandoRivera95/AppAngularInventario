@@ -6,6 +6,8 @@ import { environment } from 'src/environments/environment';
 const API= environment.urlBackend;
 const ENDPOINT = 'equipo-portatils';
 
+/////// prueba de actualizacion
+
 @Injectable({
   providedIn: 'root'
 })
